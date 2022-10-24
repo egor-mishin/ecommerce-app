@@ -4,7 +4,7 @@
 
 
 ### 🛠 Tech stack:
-React/NextJS/Typescript, ContexAPI, CommerceJS, Stripe
+React/NextJS/Typescript, ContexAPI, CommerceJS, Stripe, Storybook
 
 
 ### 📚 App development plan:
